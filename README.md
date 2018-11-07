@@ -1,2 +1,2 @@
 # WSDL_Import
-Demonstrating Oracle connection
+Demonstrating WSDL import in application
